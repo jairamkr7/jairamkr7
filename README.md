@@ -42,3 +42,9 @@ Here are some ideas to get you started:
 <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+# 💻 Tech Stack:
+# Programming Languages
+<img src="https://iconic-api.onrender.com/light/c" width="64px" />  <img src="https://iconic-api.onrender.com/light/cpp" width="64px" /> <img src="https://iconic-api.onrender.com/light/js" width="64px" />  <img src="https://iconic-api.onrender.com/light/typescript" width="64px" /> <img src="https://iconic-api.onrender.com/light/java" width="64px" />
+
+## 🎨 Frontend Technology
