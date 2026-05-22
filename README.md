@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌐 Socials:
+ <a href="mailto:jairamk120@gmail.com" target="_blank" rel="noopener noreferrer" >
+    <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
+  </a>
+
+<a href="https://github.com/jairamkr7" target="_blank" rel="noopener noreferrer">
+    <img src="https://iconic-api.onrender.com/light/github" width="64px" />
+</a>
+
+<a href="https://www.linkedin.com/in/jairam-mahto-86b526310" target="_blank" rel="noopener noreferrer">
+<img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%230a66c2" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 2px; border: 1px solid #e2e8f0;" alt="LinkedIn" />
+</a>
