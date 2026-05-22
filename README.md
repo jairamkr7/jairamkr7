@@ -1,20 +1,8 @@
 ## Hi there 👋
   I am Jairam Kumar Mahto
     final year student of B.tech in Computer Science
-<!--
-**jairamkr7/jairamkr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
  <a href="mailto:jairamk120@gmail.com" target="_blank" rel="noopener noreferrer" >
@@ -81,25 +69,25 @@ Here are some ideas to get you started:
 <p>
 
 <!-- ✅ Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=justkmr&theme=javascript-dark&border_radius=8"><br>
+<img src="https://streak-stats.demolab.com?user=jairamkr7&theme=javascript-dark&border_radius=8"><br>
 
 <!-- ✅ Top Languages + GitHub Stats -->
-<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=justkmr&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&layout=donut&custom_title=Kumar's%20Most%20Used%20Languages">
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=jairamkr7&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&layout=donut&custom_title=Jairam's%20Most%20Used%20Languages">
 
 <!-- ✅ GitHub Stats - DARK FORCED via bg_color -->
-<img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=justkmr&show_icons=true&line_height=30&rank_icon=github&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&icon_color=f0db4f&border_radius=8">
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=jairamkr7&show_icons=true&line_height=30&rank_icon=github&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&icon_color=f0db4f&border_radius=8">
 
 <!-- ✅ Summary Cards (github_dark = closest dark to javascript-dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justkmr&theme=github_dark" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justkmr&theme=github_dark" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justkmr&theme=github_dark&utcOffset=+5" width="33%"><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jairamkr7&theme=github_dark" width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jairamkr7&theme=github_dark" width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jairamkr7&theme=github_dark&utcOffset=+5" width="33%"><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justkmr&theme=github_dark" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jairamkr7&theme=github_dark" width="100%">
 
 <!-- ✅ Activity Graph - dark bg with yellow accents -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justkmr&theme=github-compact&hide_border=true&area=true&bg_color=1c1c1c&color=f0db4f&line=f0db4f&point=f0db4f&area_color=f0db4f&title_color=f0db4f">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jairamkr7&theme=github-compact&hide_border=true&area=true&bg_color=1c1c1c&color=f0db4f&line=f0db4f&point=f0db4f&area_color=f0db4f&title_color=f0db4f">
 
-<img width="100%" src="https://raw.githubusercontent.com/justkmr/justkmr/output/profile-night-rainbow.svg" alt="3D Contributions"/>
+<img width="100%" src="https://raw.githubusercontent.com/jairamkr7/jairamkr7/output/profile-night-rainbow.svg" alt="3D Contributions"/>
 
 
 <!-- ✅ Dev Quote - dark bg with yellow -->
