@@ -68,6 +68,46 @@ Here are some ideas to get you started:
 
 <img src="https://iconic-api.onrender.com/light/vercel" width="64px" /> <img src="https://iconic-api.onrender.com/light/render" width="64px" /> <img src="https://iconic-api.onrender.com/light/git" width="64px" /> <img src="https://iconic-api.onrender.com/light/github" width="64px" /> <img src="https://iconic-api.onrender.com/light/postman" width="64px" /> <img src="https://iconic-api.onrender.com/light/visual-studio" width="64px" /> <img src="https://cdn.simpleicons.org/npm/CB3837" width="64px" height="64px" style="background-color: white; border-radius: 100%; padding: 14px; border: 1px solid #e2e8f0; object-fit: contain;" alt="NPM" />
 
-## Develop and TroubleShoot on <img src="https://iconic-api.onrender.com/light/docker" width="44px"/>
-
 ## 🎨 Design Tools
+ <img src="https://iconic-api.onrender.com/light/canva" width="64px" /> <img src="https://iconic-api.onrender.com/light/figma" width="64px" />
+
+# 📊 GitHub Stats:
+<div align="center">
+
+<h2 style="color:#f0db4f; display: flex; align-items: center; justify-content: center;">
+    <span style="color:#f0db4f; font-size: 1.5em; vertical-align: middle;"> 📊 Activity & Analytics:</span>
+</h2>
+
+<p>
+
+<!-- ✅ Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=justkmr&theme=javascript-dark&border_radius=8"><br>
+
+<!-- ✅ Top Languages + GitHub Stats -->
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=justkmr&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&layout=donut&custom_title=Kumar's%20Most%20Used%20Languages">
+
+<!-- ✅ GitHub Stats - DARK FORCED via bg_color -->
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=justkmr&show_icons=true&line_height=30&rank_icon=github&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&icon_color=f0db4f&border_radius=8">
+
+<!-- ✅ Summary Cards (github_dark = closest dark to javascript-dark) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justkmr&theme=github_dark" width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justkmr&theme=github_dark" width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justkmr&theme=github_dark&utcOffset=+5" width="33%"><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justkmr&theme=github_dark" width="100%">
+
+<!-- ✅ Activity Graph - dark bg with yellow accents -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justkmr&theme=github-compact&hide_border=true&area=true&bg_color=1c1c1c&color=f0db4f&line=f0db4f&point=f0db4f&area_color=f0db4f&title_color=f0db4f">
+
+<img width="100%" src="https://raw.githubusercontent.com/justkmr/justkmr/output/profile-night-rainbow.svg" alt="3D Contributions"/>
+
+
+<!-- ✅ Dev Quote - dark bg with yellow -->
+<h3 style="color:#f0db4f;">✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=f0db4f&authorColor=d8d8dd&symbolColor=f0db4f&backgroundColor=1c1c1c">
+
+<hr>
+</div> 
+ 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=135&section=footer" width="100%"/>
